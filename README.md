@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/v-t-9/FrontEndMentorSocialLinksProfile)
-- Live Site URL: [Add live site URL here](https://v-t-9.github.io/FrontEndMentorSocialLinksProfile/)
+- Solution URL: [Repository](https://github.com/v-t-9/FrontEndMentorSocialLinksProfile)
+- Live Site URL: [Site](https://v-t-9.github.io/FrontEndMentorSocialLinksProfile/)
 
 ## My process
 
